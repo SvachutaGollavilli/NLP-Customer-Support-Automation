@@ -18,11 +18,11 @@ An open-source project to automate customer support using NLP.
 
 2. Install Dependencies:
    ```bash
-	pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Run a test script:
    ```bash
-	python src/preprocess.py
+   python src/preprocess.py
 
 
 Contributing: Feel free to open an issue or submit a pull request. Contributions are welcome!
