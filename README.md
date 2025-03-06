@@ -17,11 +17,11 @@ An open-source project to automate customer support using NLP.
    cd NLP-Customer-Support-Automation
 
 2. Install Dependencies:
-
+	```bash
 	pip install -r requirements.txt
 
 3. Run a test script:
-
+	```bash
 	python src/preprocess.py
 
 
