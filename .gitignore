@@ -4,3 +4,6 @@ models/
 logs/
 *.log
 *.csv
+multiwoz/data/MultiWOZ_1.0/data.json
+multiwoz/data/MultiWOZ_2.1/data.json
+multiwoz/data/MultiWOZ_2.2/dialog_acts.json
