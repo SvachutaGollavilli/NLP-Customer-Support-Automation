@@ -1,0 +1,14 @@
+#####################################################
+#####################################################
+#  Copyright Cambridge Dialogue Systems Group, 2018 #
+#####################################################
+#####################################################
+
+Dataset contains the following seven json files:
+1. data.json: the woz dialogue dataset, which contains the conversion from users and wizards, as well as a set of coarse labels for each user turn.
+2. restaurant_db.json: the Cambridge restaurant database file, containing restaurants in the Cambridge UK area and a set of attributes.
+3. attraction_db.json: the Cambridge attraction database file, contining attractions in the Cambridge UK area and a set of attributes.
+4. hotel_db.json: the Cambridge hotel database file, containing hotels in the Cambridge UK area and a set of attributes.
+5. train_db.json: the Cambridge train (with artificial connections) database file, containing trains in the Cambridge UK area and a set of attributes.
+6. valListFile.json: list of dialogues for validation.
+7. testListFile.json: list of dialogues for testing.
